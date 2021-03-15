@@ -1,5 +1,8 @@
 package za.ac.cput.calculator;
 
+/**
+ * @author Athi
+ */
 public class Division {
     /**
      *returns result of integer division
